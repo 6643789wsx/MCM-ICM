@@ -1,0 +1,685 @@
+<body>
+                <div class="modal-container">
+<div class="modal fade" id="calculations_help" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+            Calculations Help
+            <a href="#" class="pull-right" data-dismiss="modal"><i class="fa fa-close"></i></a>
+            </div>
+            <div class="modal-body">
+            <div><strong>SA/Disp.:</strong><br>A sail area/displacement ratio below 16 would be considered under powered; <br>16 to 20 would indicate reasonably good performance; <br>above 20 suggests relatively high performance. <br>SA/D = SA (ft²) ÷ (Disp (lbs) / 64)^.666<br><strong>Bal./Disp.:</strong><br>A Ballast/Displacement ratio of 40 or more translates into a stiffer, more powerful boat that will be better able to stand up to the wind. <br>Bal./Disp = ballast (lbs)/ displacement (lbs)*100<br><strong>Disp./Len.:</strong><br>The lower a boat's Displacement/Length (LWL) ratio, the less power it takes to drive the boat to its nominal hull speed.<br>less than 100 = Ultralight; <br>100-200 = Light; <br>200-275 = Moderate; <br>275-350 = Heavy; <br>350+ = Ultraheavy; <br>D/L = (Disp / 2240) / (0.01*LWL)^3.<br><strong>Comfort Ratio: </strong><br>This is a ratio created by Ted Brewer as a measure of motion comfort. It provides a reasonable comparison between yachts of <strong>similar size and type</strong>. It is based on the fact that the faster the motion the more upsetting it is to the average person. Consider, though, that the typical summertime coastal cruiser will rarely encounter the wind and seas that an ocean going yacht will meet. <br>Numbers below 20 indicate a lightweight racing boat; <br>20 to 30 indicates a coastal cruiser; <br>30 to 40 indicates a moderate bluewater cruising boat; <br>40 to 50 indicates a heavy bluewater boat; <br>over 50 indicates an extremely heavy bluewater boat. <br>Comfort ratio = D ÷ (.65 x (.7 LWL + .3 LOA) x Beam^1.33), where displacement is expressed in pounds, and length is expressed in feet.<br><strong>Capsize Screening Formula (CSF): </strong><br>Designed to determine if a boat has blue water capability. The CSF compares beam with displacement since excess beam contributes to capsize and heavy displacement reduces capsize vulnerability. The boat is better suited for ocean passages (vs coastal cruising) if the result of the calculation is 2.0 or less. The lower the better.<br>CSF = Beam/Disp (cubic ft)^.333. The displacement in cubic feet can be found by dividing the displacement in pounds by 64. <br><strong>S#: </strong><br>S# first appeared (that we know of) in TellTales, April 1988, “On a Scale of One to Ten” by A.P. Brooks . The equation incorporates SA/Disp (100% fore triangle) and Disp/length ratios to create a guide to probable boat performance vs. other boats <em>of </em><strong><em>comparable size</em></strong>. &nbsp; For boats of the same length, generally the higher the S#, the lower the PHRF.<br>Under 2 - Slow, under powered. <br>2-3 - Cruiser <br>3-5 - Racer Cruiser <br>5+ - Fast/Racing<br> S# = 3.972*(10^(-[@[Dsp/LWL]]/526+(0.691*(LOG([@[SA/Dp]])-1)^0.8)))<br><br><strong>FOR MULTIHULLS ONLY:<br>BN - Bruce Number: </strong>The Bruce Number is a power-to-weight ratio for relative speed potential for comparing two or more boats. It takes into consideration the displacement and sail area of main and jib. 100% fore-triangle only, no overlapping sails.<br>Chris White, "The Cruising Multihull", (International Marine, Camden, Maine, 1997), states that a boat with a BN of less than 1.3 will be slow in light winds. A boat with a BN of 1.6 or greater is a boat that will be reefed often in offshore cruising.<br>Derek Harvey, "Multihulls for Cruising and Racing", International Marine, Camden, Maine, 1991, states that a BN of 1 is generally accepted as the dividing line between so-called slow and fast multihulls.<br>BN = SA^0.5/(Disp. in pounds)^.333<br><strong>Kelsall Sailing Performance (KSP): </strong>Another measure of relative speed potential of a boat. It takes into consideration "reported" sail area, displacement and length at waterline. The higher the number the faster speed prediction for the boat. A cat with a number 0.6 is likely to sail 6kts in 10kts wind, a cat with a number of 0.7 is likely to sail at 7kts in 10kts wind.<br>KSP = (Lwl*SA÷D)^0.5*.05&nbsp;<br><br></div>
+            </div>
+                    </div>
+    </div>
+</div>
+</div>
+<div class="modal-container">
+<div class="modal fade" id="rigging_help" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+            Sailboat Rigging Diagram
+            <a href="#" class="pull-right" data-dismiss="modal"><i class="fa fa-close"></i></a>
+            </div>
+            <div class="modal-body">
+            <img class="img-responsive" src="https://sailboatdata.com/img/rig_diagram.gif">
+            </div>
+                    </div>
+    </div>
+</div>
+</div>
+        <header class="container">
+            <a id="banner" href="/" style="text-decoration:none; ">
+                <img class="center-block img-responsive" src="/img/header-banner.gif" alt="SailboatData.com The world's largest sailboat database.">
+            </a>
+                            <div class="desktop_ads">
+    <div class="">
+        <div id="v2.4_header" data-id="0" class="visible-xs visible-sm visible-md visible-lg" style="min-height: 90px;" data-google-query-id="CJ3Kk-uNhf4CFQ4fKgodB-QJhg"> 
+             
+        <div id="google_ads_iframe_/1084526/v2.4_header_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1084526/v2.4_header_0" name="google_ads_iframe_/1084526/v2.4_header_0" title="3rd party ad content" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" role="region" aria-label="Advertisement" tabindex="0" data-google-container-id="3" data-load-complete="true" width="728" height="90" frameborder="0"></iframe></div></div>
+    </div>
+</div>                    </header>
+        <nav id="main-nav" class="container navbar navbar-default">
+    <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-list" aria-expanded="false">
+                <span class="sr-only">Toggle Navigation</span>
+                Menu
+            </button>
+      <a class="navbar-brand" href="/">Home</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="nav-list">
+        <ul class="nav navbar-nav">
+
+            <li><a href="https://sailboatdata.com/sailboat">Sailboats</a></li>
+            <li><a href="https://sailboatdata.com/builder">Builders</a></li>
+            <li><a href="https://sailboatdata.com/designer">Designers</a></li>
+            <li><a href="https://sailboatdata.com/listing">For Sale</a></li>
+            <li><a href="https://sailboatdata.com/association">Class/Owners Associations</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    Community
+                    <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a target="_blank" href="https://www.facebook.com/sailboatdata">Facebook</a></li>
+                    <li><a target="_blank" href="https://twitter.com/sailboatdata">Twitter</a></li>
+                    <li><a target="_blank" href="https://www.linkedin.com/company/sailboatdata.com/">LinkedIn</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    About
+                    <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="https://sailboatdata.com/about">About Us</a></li>
+                    <li><a href="https://sailboatdata.com/contact">Contact</a></li>
+                    <li><a href="https://sailboatdata.com/legal">Legal</a></li>
+                    <li><a href="https://sailboatdata.com/help">Help</a></li>
+                </ul>
+            </li>
+            <li><a href="https://sailboatdata.com/advertise">Advertising</a></li>
+                            <li><a target="_blank" href="https://forum.sailboatdata.com">Forum</a></li>
+                        		    <li><a href="https://sailboatdata.com/compare?utm_source=lab&amp;utm_medium=web&amp;utm_campaign=compare">Compare</a></li>
+            
+                    </ul>
+                </div>
+</nav>
+        <main class="container">
+                            <div class="mobile_ads mobile_ads--top">
+                            <div class="col-xs-6">
+                            <a target="_blank" id="7" data-id="7" href="https://www.pyiinc.com/max-prop.html">
+                <img src="https://sailboatdata.com/storage/WCvSodwMkoPWORPftiyvO0jokp0jam6RAOrnbPHY.jpeg" alt="Max Prop">
+            </a>
+                    
+        </div>
+                                                                                                                                                                            </div>
+                <div class="mobile_ads mobile_ads--top-second">
+                    <div class="col-xs-6">
+                                    <a target="_blank" id="7" data-id="7" href="https://www.pyiinc.com/max-prop.html">
+                    <img src="https://sailboatdata.com/storage/WCvSodwMkoPWORPftiyvO0jokp0jam6RAOrnbPHY.jpeg" alt="Max Prop">
+                </a>
+                        
+        </div>
+                                                                                                                <div class="col-xs-6">
+                                                    <a target="_blank" id="9" data-id="9" href="https://www.pyiinc.com/KiwiGrip/">
+                                <img src="https://sailboatdata.com/storage/9HnqDiQ53I1Sn4mXwMsKR1nWIYJk4TBlI9ABidkh.jpeg" alt="KiwiGrip">
+                            </a>
+                                            </div>
+                                </div>
+
+                <div class="row">
+                    <aside id="first-aside" class="col-sm-2 hidden-xs">
+                        <div class="unit">
+                            <a target="_blank" data-id="2" href="https://www.bluenoseyachts.com/yachts-for-sale/?featured=1">
+                    <img class="center-block img-responsive" alt="Bluenose Yacht Sales" src="https://sailboatdata.com/storage/vkCBNruh4zODsK4xke71RVsPNEJ67ekiE5cOeFsL.gif">
+                </a>
+                    </div>
+            <div class="unit">
+                            <a target="_blank" data-id="6" href="https://www.pyiinc.com/max-prop.html">
+                    <img class="center-block img-responsive" alt="Max Prop" src="https://sailboatdata.com/storage/lCx2spB7aBGl1XmbZhZywBgtBRItDOtyTW6eEsVm.jpeg">
+                </a>
+                    </div>
+            <div class="unit">
+                            <a target="_blank" data-id="8" href="https://www.pyiinc.com/KiwiGrip/">
+                    <img class="center-block img-responsive" alt="KiwiGrip" src="https://sailboatdata.com/storage/89qgq7VJDK9qUWDBmilOcEJCCzwAqp3gQ41OAZPa.jpeg">
+                </a>
+                    </div>
+            <div class="unit">
+                            <div id="7584ef155e791f1142b92a1cae4c78849d87aa35" data-id="20" class="gam-ad visible-xs visible-sm visible-md visible-lg" data-google-query-id="CJzKk-uNhf4CFQ4fKgodB-QJhg"> 
+     
+<div id="google_ads_iframe_/1084526/v2.4_left_side_2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1084526/v2.4_left_side_2_0" name="google_ads_iframe_/1084526/v2.4_left_side_2_0" title="3rd party ad content" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" role="region" aria-label="Advertisement" tabindex="0" data-google-container-id="2" data-load-complete="true" width="160" height="600" frameborder="0"></iframe></div></div>
+
+
+                    </div>
+            <div class="unit">
+                            <a target="_blank" data-id="29" href="https://apps.apple.com/us/app/sailboatdata/id1545197438">
+                    <img class="center-block img-responsive" alt="Sailboatdata App for iOS" src="https://sailboatdata.com/storage/ZEGEMTfTUnXKscfi5RyMexlDdJc8RcrMNlus3gBm.jpeg">
+                </a>
+                    </div>
+                        </aside>
+                    <div id="content" class="col-xs-12 col-sm-8">
+                        
+                        <div class="row">
+            <div class="col-xs-12">
+                <button type="button" class="btn btn-primary btn-back" onclick="history.back()"><i class="fa fa-backward"></i> Back</button>
+            </div>
+        </div>
+        
+                                                                        
+                        <h1></h1>
+                        <h1>LAGOON 380</h1>
+<article class="sailboat sailboat-single-info">
+        <section class="sailboat-images row">
+    <img class="img-responsive center-block" alt="LAGOON 380 photo" src="https://sailboatdata.com/storage/images/sailboat/photo/lagoon_380_photo.jpg">
+</section>
+    <section>
+        <div class="mobile_ads mobile_ads--above-specs">
+                    <div class="col-xs-12">
+                                    <a target="_blank" id="24" data-id="24" href="https://www.betamarinenc.com">
+                    <img src="https://sailboatdata.com/storage/FXEuQoriNoOgNMYHHedRMWJEOjdIgltdnXp10au2.gif" alt="Beta Marine">
+                </a>
+                        
+        </div>
+            </div>
+
+    <div class="desktop_ads">
+        <div class="desktop_ads__above-the-specs">
+                            <a target="_blank" id="10" data-id="10" href="https://www.betamarinenc.com">
+                    <img src="https://sailboatdata.com/storage/lO5vwht2qo6aTmuc6TWb2jMtgE5sHx6aUrp3f3vc.gif" alt="Beta Marine" width="100%" height="50px">
+                </a>
+                    </div>
+    </div>
+        <h2>Sailboat Specifications</h2>
+<div class="btn-group btn-group-sm btn-group-justified" role="group" aria-label="...">
+    <a class="btn btn-default  active " role="button" href="https://sailboatdata.com/sailboat/lagoon-380">both</a>
+    <a class="btn btn-default " role="button" href="https://sailboatdata.com/sailboat/lagoon-380?units=imperial">US imperial</a>
+    <a class="btn btn-default " role="button" href="https://sailboatdata.com/sailboat/lagoon-380?units=metric">metric</a>
+</div>
+<br>
+<div class="sailboat-details">
+    <div class="row first-row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Hull Type:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    Catamaran Twin Keel
+</div>
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Rigging Type:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    Fractional  Sloop
+</div>
+    </div>
+    <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    LOA:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    37.89 ft / 11.55 m
+</div>
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    LWL:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    36.08 ft / 11.00 m
+</div>
+    </div>
+    <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Beam:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    21.42 ft / 6.53 m
+</div>
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    S.A. (reported):
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    829.00 ft<sup>2</sup> / 77.02 m<sup>2</sup>
+</div>
+    </div>
+    <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Draft (max):
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    3.77 ft / 1.15 m
+</div>
+            </div>
+    <div class="row">
+        <div class=" col-sm-2  col-xs-6 sailboatdata-label ">
+    Displacement:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-2 ">
+    16,005 lb / 7,260 kg
+</div>
+                    </div>
+    <div class="row">
+        <div class=" col-sm-2  col-xs-6 sailboatdata-label ">
+    S.A./Disp.:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-2 ">
+    20.96
+</div>
+                <div class=" col-sm-2  col-xs-6 sailboatdata-label ">
+    Disp./Len.:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-2 ">
+    152.13
+</div>
+    </div>
+    <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Construction:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    FG
+</div>
+            </div>
+    <div class="row">
+        <div class=" col-sm-2  col-xs-6 sailboatdata-label ">
+    First Built:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-2 ">
+    2000
+</div>
+                <div class=" col-sm-2  col-xs-6 sailboatdata-label ">
+    # Built:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-2 ">
+    760
+</div>
+    </div>
+    <div class="row">
+        <div class=" col-xs-6  col-xs-6 sailboatdata-label ">
+    Builder:
+</div>
+<div class=" sailboatdata-data col-xs-6 ">
+    Jeanneau (FRA)
+</div>
+    </div>
+    <div class="row">
+        <div class=" col-xs-6  col-xs-6 sailboatdata-label ">
+    Designer:
+</div>
+<div class=" sailboatdata-data col-xs-6 ">
+    Van Peteghem/Lauriot-Prevost
+</div>
+    </div>
+    <div class="row">
+            </div>
+</div>
+        <h2>Auxiliary Power/Tanks <span class="legend">(orig. equip.)</span></h2>
+<div class="sailboat-details">
+    <div class="row first-row"></div>
+        <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Make:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    Yanmar or Volvo
+</div>
+            </div>
+    <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Type:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    Diesel X2
+</div>
+            </div>
+                <div class="row">
+            <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Fuel:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    53 gals / 200 L
+</div>
+        </div>
+    </div>
+
+        <div class="row">
+    <div class="col-xs-6">
+    <h2>Sailboat Calculations</h2>
+    </div>
+    <div style="margin-top:24px;" class="col-xs-6 text-right">
+        <a href="#" data-toggle="modal" data-target="#calculations_help">
+            Definitions
+        </a>
+    </div>
+</div>
+<!-- Button trigger modal -->
+
+<!-- Modal -->
+<div class="sailboat-details">
+    <div class="row first-row">
+        <div class=" col-xs-6  col-xs-6 sailboatdata-label ">
+    S.A./Disp.:
+</div>
+<div class=" sailboatdata-data col-xs-6 ">
+    20.96
+</div>
+    </div>
+    <div class="row">
+            </div>
+    <div class="row">
+        <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    KSP:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    0.68
+</div>
+    </div>
+    <div class="row">
+            </div>
+    <div class="row">
+        <div class=" col-xs-6  col-xs-6 sailboatdata-label ">
+    Disp./Len.:
+</div>
+<div class=" sailboatdata-data col-xs-6 ">
+    152.13
+</div>
+    </div>
+            
+    </div>
+        <div class="mobile_ads mobile_ads--between-calc-and-links">
+                    <div class="col-xs-12">
+                                    <a target="_blank" id="43" data-id="43" href="https://shipcanvas.com">
+                    <img src="https://sailboatdata.com/storage/7W7dWgUXQFbqH0KhGmPSpyDctA75vih6EjEBAt8D.jpeg" alt="ShipCanvas">
+                </a>
+                        
+        </div>
+            </div>
+
+        <div class="row">
+    <div class="col-xs-6">
+    <h2>Rig and Sail Particulars</h2>
+    </div>
+    <div style="margin-top:24px;" class="col-xs-6 text-right">
+        <a href="#" data-toggle="modal" data-target="#rigging_help">
+            help
+            <i class="fa fa-question-circle-o"></i>
+        </a>
+    </div>
+</div>
+
+<!-- Button trigger modal -->
+
+<!-- Modal -->
+<div class="sailboat-details">
+    <div class="row first-row"></div>
+    
+    
+    
+    
+            <div class="row">
+            <div class=" col-xs-6  col-xs-6 sailboatdata-label ">
+    Mast Height from DWL:
+</div>
+<div class=" sailboatdata-data col-xs-6 ">
+    56.83 ft / 17.32 m
+</div>
+        </div>
+    </div>
+        <h2>Accommodations</h2>
+<div class="sailboat-details">
+    <div class="row first-row">
+                <div class=" col-sm-3  col-xs-6 sailboatdata-label ">
+    Water:
+</div>
+<div class=" sailboatdata-data col-xs-6  col-sm-3 ">
+    79 gals / 300 L
+</div>
+    </div>
+</div>
+        <div class="sailboat-details sailboat-links">
+    <h2>Sailboat Links</h2>
+    <div class="row first-row"></div>
+            <div class="row">
+                            <div class="col-xs-6 sailboatdata-label">
+                                    Designers:
+                                </div>
+                <div class="sailboatdata-data col-xs-6">
+                    <a href="https://sailboatdata.com/designer/van-peteghemlauriot-prevost"> Van Peteghem/Lauriot-Prevost</a>
+                </div>
+                    </div>
+        <div class="row">
+                            <div class="col-xs-6 sailboatdata-label">
+                                    Builders:
+                                </div>
+                <div class=" sailboatdata-data col-xs-6">
+                <a href="https://sailboatdata.com/builder/jeanneau-fra">Jeanneau (FRA)</a>
+                </div>
+                            <div class="col-xs-6 sailboatdata-label">
+                                </div>
+                <div class=" sailboatdata-data col-xs-6">
+                <a href="https://sailboatdata.com/builder/cnb-fra">CNB (FRA)</a>
+                </div>
+                            <div class="col-xs-6 sailboatdata-label">
+                                </div>
+                <div class=" sailboatdata-data col-xs-6">
+                <a href="https://sailboatdata.com/builder/lagoon-catamaran">Lagoon Catamaran</a>
+                </div>
+                    </div>
+        <div class="row">
+                                </div>
+        <div class="row">
+                                </div>
+        <div class="row">
+                                </div>
+        
+        <div class="row">
+    
+        <div class=" col-xs-6  col-xs-6 sailboatdata-label ">
+    Download Boat Record:
+</div>
+<div class=" sailboatdata-data col-xs-6 ">
+    <a class="" href="https://sailboatdata.com/sailboat/lagoon-380/pdf">PDF</a>
+</div>
+</div></div>
+        <div class="mobile_ads mobile_ads--between-links-and-notes">
+                    <div class="col-xs-6">
+                                    <a target="_blank" id="7" data-id="7" href="https://www.pyiinc.com/max-prop.html">
+                    <img src="https://sailboatdata.com/storage/WCvSodwMkoPWORPftiyvO0jokp0jam6RAOrnbPHY.jpeg" alt="Max Prop">
+                </a>
+                        
+        </div>
+                                                                                                                <div class="col-xs-6">
+                                                    <a target="_blank" id="9" data-id="9" href="https://www.pyiinc.com/KiwiGrip/">
+                                <img src="https://sailboatdata.com/storage/9HnqDiQ53I1Sn4mXwMsKR1nWIYJk4TBlI9ABidkh.jpeg" alt="KiwiGrip">
+                            </a>
+                                            </div>
+                                </div>
+
+                            <div class="row">
+    <div class="col-xs-6">
+        <h2>Sailboat Forum</h2>
+    </div>
+</div>
+<div class="sailboat-details">
+    <div class="row first-row">
+            <div class="col-xs-6 sailboatdata-label">
+                View All Topics
+            </div>
+            <div class="sailboatdata-data col-xs-6">
+                <a target="_blank" href="https://forum.sailboatdata.com/tags/lagoon-380">https://forum.sailboatdata.com/tags/lagoon-380</a>
+            </div>
+    </div>
+    <div class="row">
+            <div class="col-xs-6 sailboatdata-label">
+                Create Topic
+            </div>
+            <div class="sailboatdata-data col-xs-6">
+                <a target="_blank" href="https://forum.sailboatdata.com/new-topic?tags=lagoon-380">
+                        New Topic
+                    <i class="fa fa-plus"></i>
+                </a>
+            </div>
+    </div>
+    
+        <div class="row">
+            <div class="col-xs-6 sailboatdata-label">
+                Latest Topics
+            </div>
+            <div class="sailboatdata-data col-xs-6">
+                <a target="_blank" href="https://forum.sailboatdata.com/new-topic?tags=lagoon-380">
+                    Be The First To Create A Topic
+                    <i class="fa fa-plus"></i>
+                </a>
+            </div>
+    </div>
+    </div>
+                
+    </section>
+
+
+</article>
+                        <div class="mobile_ads mobile_ads--bottom">
+                    <div class="col-xs-6">
+                            <a target="_blank" id="7" data-id="7" href="https://www.pyiinc.com/max-prop.html">
+                <img src="https://sailboatdata.com/storage/WCvSodwMkoPWORPftiyvO0jokp0jam6RAOrnbPHY.jpeg" alt="Max Prop">
+            </a>
+                    
+        </div>
+                                                                                                                                                                            </div>
+                        <div class="mobile_ads mobile_ads--bottom-second">
+                    <div class="col-xs-6">
+                                    <a target="_blank" id="7" data-id="7" href="https://www.pyiinc.com/max-prop.html">
+                    <img src="https://sailboatdata.com/storage/WCvSodwMkoPWORPftiyvO0jokp0jam6RAOrnbPHY.jpeg" alt="Max Prop">
+                </a>
+                        
+        </div>
+                                                                                    <div class="col-xs-6">
+                                                    <a target="_blank" id="9" data-id="9" href="https://www.pyiinc.com/KiwiGrip/">
+                                <img src="https://sailboatdata.com/storage/9HnqDiQ53I1Sn4mXwMsKR1nWIYJk4TBlI9ABidkh.jpeg" alt="KiwiGrip">
+                            </a>
+                                            </div>
+                                </div>
+
+                        <div class="row">
+    <div class="col-xs-12 text-center">
+        <a href="http://www.facebook.com/sailboatdata" target="_blank">
+            <img src="/img/facebook_logo.png" alt="sailboatdata.com on facebook" height="48">
+        </a>
+        <a href="https://www.linkedin.com/company/sailboatdata.com/" target="_blank">
+            <img src="/img/linkedin_logo.png" alt="sailboatdata.com linkedin page" height="48">
+        </a>
+        <a href="https://twitter.com/sailboatdata" target="_blank">
+            <img src="/img/twitter_logo.png" alt="Follow sailboatdata.com on Twitter" height="48">
+        </a>
+    </div>
+</div>
+<br>
+                    </div>
+                    <aside id="second-aside" class="hidden-xs col-sm-2">
+                        <div class="unit">
+                            <a target="_blank" data-id="11" href="https://shipcanvas.com">
+                    <img class="center-block img-responsive" alt="ShipCanvas" src="https://sailboatdata.com/storage/58aCvfkxFUZx11M4seXi4MtpuerE8ktKlOiTofiY.jpeg">
+                </a>
+                    </div>
+            <div class="unit">
+                            <div id="d22330d3d5407a629ca9e72f3eab9af2de63293a" data-id="21" class="gam-ad visible-xs visible-sm visible-md visible-lg" data-google-query-id="CJvKk-uNhf4CFQ4fKgodB-QJhg"> 
+     
+<div id="google_ads_iframe_/1084526/v2.4_right_side_8_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1084526/v2.4_right_side_8_0" name="google_ads_iframe_/1084526/v2.4_right_side_8_0" title="3rd party ad content" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" role="region" aria-label="Advertisement" tabindex="0" data-google-container-id="1" data-load-complete="true" width="160" height="600" frameborder="0"></iframe></div></div>
+
+
+                    </div>
+            <div class="unit">
+                            <a target="_blank" data-id="19" href="https://ewol-propellers.com">
+                    <img class="center-block img-responsive" alt="EWOL Propellers" src="https://sailboatdata.com/storage/o9YC03dyU5bVTwdCdEArkR4oOrxFtzuKxSbLO5ED.gif">
+                </a>
+                    </div>
+                        </aside>
+                </div>
+                    </main>
+        <footer class="container">
+            <div class="row">
+                <div id="main-footer" class="col-xs-12">
+                    © 2003 - 2023 sailboatdata.com  All rights reserved.
+                </div>
+            </div>
+
+            
+                            <div class="desktop_ads">
+    <div class="">
+        <div id="1234567890" data-id="0" class="visible-xs visible-sm visible-md visible-lg" data-google-query-id="CJ7Kk-uNhf4CFQ4fKgodB-QJhg"> 
+             
+        <div id="google_ads_iframe_/1084526/v2.4_footer_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe style="border: 0px none; vertical-align: bottom;" src="https://8047e4fe750ed9dd7a2036b29ac94a33.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" id="google_ads_iframe_/1084526/v2.4_footer_0" title="3rd party ad content" name="1-0-40;13292;<!doctype html><html><head><script>var jscVersion = 'r20230329';</script><script>window['sumhl'] = 60000;</script><script>var google_casm=[];</script></head><body leftMargin=&quot;0&quot; topMargin=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;><div class=&quot;GoogleActiveViewInnerContainer&quot;style=&quot;left:0px;top:0px;width:100%;height:100%;position:fixed;pointer-events:none;z-index:-9999;&quot;></div><div style=&quot;display:inline&quot;class=&quot;GoogleActiveViewElement&quot;data-google-av-cxn=&quot;https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjst47vaeCHMBXKDU4he5pnCtxta3_tlOaYLzILWUw4-oU7YOMgMPS8XyDmzyIgNnREuAKBcvN53hOIdV47EXlpuJ261AkXQo-4i6b1SWUuQ7--qF_0r7FtjOVSa-LumUpp2s0So&amp;amp;sai=AMfl-YQ0Q5mDhbdBxTJzz3pxu1QLGdnzmQUxQPMn6Hom7STxHVZfQ7n1OgRJ2chEb35vzp2w00fHomshpwcYCmnNZZ1zZV8_KKkB2554y-lw2hlcobkKKwGkiGFe9LmNmvqU4zP_8L-lgjsBY0fg&amp;amp;sig=Cg0ArKJSzJZ_kYdsk_X9EAE&amp;amp;cid=CAQSSwDUE5ymXHNer6V-MCGCOikCAfnQSMGwodzqVFHQ4LVAZVZOMz3zbRUXTGFigajdqJTIjQxE5DTTS43OKsLXj6IBRU14AujNZbAZ2xgB&quot;data-google-av-adk=&quot;1133882782&quot;data-google-av-metadata=&quot;la=0&amp;amp;xdi=0&amp;amp;&quot;data-google-av-ufs-integrator-metadata=&quot;&quot;data-google-av-override=&quot;-1&quot;data-google-av-dm=&quot;2&quot;data-google-av-immediate data-google-av-aid=&quot;0&quot;data-google-av-naid=&quot;1&quot;data-google-av-slift=&quot;&quot;data-google-av-cpmav=&quot;&quot;data-google-av-btr=&quot;&quot;data-google-av-itpl=&quot;20&quot;data-google-av-rs=&quot;4&quot;data-google-av-flags=&quot;[&amp;quot;x%278440&amp;#39;9efotm(&amp;amp;753374%2bejvf/%27844&amp;gt;&amp;#39;9wuvb$&amp;amp;56533&amp;gt;!=|vqc)!273794&amp;amp;&amp;lt;qqvb/%&amp;lt;1735020!=nehu`/!364=5051!9abk{a($160210:3&amp;amp;&amp;lt;cbotf+*0150034:%2bejvf/%72;17613!=efdwa*&amp;#39;76463;21$?ebkpb$&amp;amp;0366717&amp;gt;*&amp;gt;bgipf+!3=712363%9aihwc)!7202&amp;lt;217&amp;#39;9efotm(&amp;amp;20061;48&amp;amp;&amp;gt;`dopb/%&amp;lt;1707200!=8(&amp;amp;2005575?&amp;amp;&amp;gt;`dopb/%&amp;lt;170642?!=|vqc)!7201;=50&amp;#39;9wuvb$&amp;amp;03641654*&amp;gt;bgipf+!3=731103%9aihwc)!7200?073&amp;#39;9efotm(&amp;amp;2004?51;&amp;amp;&amp;gt;`dopb/%&amp;lt;17&amp;gt;474&amp;gt;!=nehu`/!36406412!9abk{a($160&amp;gt;358&amp;lt;&amp;amp;&amp;lt;cbotfz&amp;quot;]&quot;><DIV STYLE=&quot;position: absolute; left: 0px; top: 0px; visibility: hidden;&quot;><IMG SRC=&quot;https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&amp;dbm_b=AKAmf-DLa5WNauY7npWeAzoSNQMBOrJzvjzWfvVMDhtgwFhzCFKH_vsARxhUxr5AGmVATeEjzi0TonaE9I1AY9sF3TM6x4zegBWYv_CD3ZzwPDKmKWCJJ78&quot; BORDER=0 WIDTH=1 HEIGHT=1 ALT=&quot;&quot; STYLE=&quot;display:none&quot;></DIV><iframe title=&quot;Blank&quot; src=&quot;https://googleads.g.doubleclick.net/xbbe/pixel?d=CMbJCxCF_NEBGNmQwdwBMAE&amp;v=APEucNUid3AEBcSmZnO4VBA3yiTNraV56x5FLsZymaJj171BYh6RYs3hOOF45-Pcrb0y0N3lKxUk__8t9K3tHK3wE5lOIAhD_w&quot; style=&quot;display:none&quot; aria-hidden=&quot;true&quot;></iframe><div><div style=&quot;position:absolute;&quot;><IMG SRC=&quot;https://pagead2.googlesyndication.com/pagead/gen_204?id=dv3-render&amp;msg=fetch&amp;cor=7699425254903748997&amp;x=1&amp;ct=76&quot; BORDER=0 WIDTH=1 HEIGHT=1 ALT=&quot;&quot; STYLE=&quot;display:none&quot;><script>(function() {var u = 'https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-BUckVZOlhLOSakEOui5kGP6JRg5caznUuIaBlmNHc4YrVHDCuFjY_xfoqTw0dKwIpsFtKfTXYZcDJLtrlBJPW2s7RcmhvBBiCeR-Q_50HFXNd5NkskgBM_6p73PMkPpipJSrQMBFaC_Q0rspnZfxZ9UJHNP-2JW5YtAmO0sFmE0-M_ehs&amp;dbm_d=AKAmf-BGjcNODL421XrjJwrZDOq_oZunk441V0U3IRPpY6k0PMggT3F6Pq_M-bNrccssTnfewCuhmztA15ghyAWE9kWglgiMIWnN7qMffeTKZE2O_IAp6R1m5glGSu6o-G_VdAuwv7A3v4C3NtrZYYFlTKV7MVVtULJtb58fc_zJz69X8VzsVRlRJUekat0rvST34T9PynDeIn8sspSrSKAw-_4qyQhGs-dvZNoRLNx9rSZKx6HPO2c3abA11-4d0AI9T23Wehu4BwHXe2ZcZo1I5M8JLcszHj0mWt2SFYckNqWJTaLDAX3Hql8AqObno5Rse8liW1_ytcsfTXeBGL67jA1HsFPysUHD0aS-GOMOukUztFJea45c2aaNi6tCu9caTEit3e-Av-pTT_ZZ_iEJYL7SZv0y_B7pujW9XDqkiBIKlLxlZwHpoX4nuX6x94kLQ__39-fUUulAiHtRjRFNGa9GzUoJKDrSyxaBx7IEaHAMPUmsjBxshha6kGjDFFrkZzVPyuFzsksrr34xgutjV3Rl3-emJ4SgdBCNlq1pAGcirswYnUUe4YnKAJPsMbG0KBXj2zX5lptOiYWHvlW40JLvZGgAf-rfZeSCoXIYFw16XZi6sxpvzrHUrQ-vZpgpFzOB1IdZXxKbDmPE_04ZDkRREqLT9TGszye_uoYnu00gc5JMmnbLqY9N-TXp0Er-y74Dgy0E-IFsTia7p3OAtZpviP_UmpihnEIaJQzrjHhCf8nm-N6SlXDoYR005zecdJRDApjNPlaZQSgnXST-jJ1VsIskbU40pv_gyoTsgcTLF7KEzqX8abrbCSyDsY9e_4UjdTR08YKhhPtYzbvGf3N7eaqo5MtkicSjW_ca8434D_wd-5JWUG7atytJcAGqDLsrlPnivyJGZKIhOjh0wBJEIhZ7J7tzTPEzH9l2k-sobtzLWDg4Hh-fOw6tdLKinJPBMdfmy4IJYugfGf0u3kI_dAcUuYyzdSHhaBEDz79TzJPWIs9376ile7hK5KscajO1QKi_lrUKeeDkjbUoibBVJ4_ElPvhUxWBnZpHXx6ApmJ8wIjqjeKcgHVYSdDSeq3LeB7Q7_g3PwIxXDE5osmZLQdC9a86PnT3x1HFMXnfZ-cJoqDXj7YNlsRaXvA9PO0Gx0o9fE3E4QuXHsYgVzDBsQEP8PWDTiWOkzi5WQ-nCK67NrDsL7b1ONOjhLqXzHMDKvIu8z7ELAukw0gMQAEf0ogM982Ske0BhbSYZ17Y1mkfTDLm-53f44F3o6UO65zELdvD_-0CpREoq8b-rVMr4ZRXH0daDDtYzmBlb_LZvdSq1BJp79KQUMNJLVMzGb-IBuW0rmdbFiIq1-Zfsn6UokygGU1AwBZDIQs1D0jvdWkR0dSvpD_s2O2WVYkqWOkQxO5kG-xMjrzRNcK5c5cAs5bcxZh9ujF24ohZG8f85ZtjxuXEMPQqkrApx9rmzc3hRAhNNeZffANzX4A3AJgYc2kP0NyN0pcXAyjh9FMi80lgCRo-MAesKf6bX8uQJGS6bMGN7C33GhuY5MGppmAVGmB0ktzcLYh38yj_9D3nrUco0vvwX-0QaOif0gGp04Xhk4zq7MRvvHExR-Z6cmEsGQ2J1tb8LVqM-SZcb-7YNYx87T33udV0CyZ8Xq8T4b2MnhiTgzZ5KFbLQCSreEGwW1bp8FF-yEcuSr63V-GYT1bqeU9Cn5vOIES_fG_duAjyFceDQ7cyZOZbn6crBSeB_N6yDgwe8aMWlSwhyMLy1XKyqv2aw_VSkF-yVlR5zM5lNPkoLEVqmI4esXt3b02Mbnw3UuV388Meid6MtEsK3aVRFT8Vu9C9o3YsC5tWUww1LxGsKhbDfjWEW6gZHnAV87tHAMZqrPFEyk8XAccYWJ20eZMUEaswuR7u56yY43OdiXawSV_uAGsNjwS3Z_KpEZoCERBQpOobAesGBQ26zEgT3V3GTVDEz5fV7xpVeW_3SjmzUyy9GaRN0rqMV_nP9He5jbIwEvbQ4hIib-FBjsFh8U2SANFngqLPGKaQoGubmnaRkZie3BQmuaNKs2KNKIHaHJDvzp-cNZxQRmbb4seqY7I84OX6NqAKRG0qeMq-M_V5MT5ylSukO0dM2ZXIKpjA9DCoZUssRWVYQ2zjiX2yRDlJyTikpGBzJ6GFwlfJu9HUqVQh_-NfBTWgiN9KvwVgVWp9wa7QDFghv1mDK2y5WzyQP0_60aC-I4PUapAgULnfvNonJxMUB3TRC2WZ_9j_h8apoj6pK7lCFFOzh4MvNtga-z4UTue3CPiI1GWcZ1PYsMuzsvzBF1bSo7c8pWQX5TwZ0z0AYuihVgnGhHksgWYyShyPALf4BReQ6XLAud6GtGpLDtbAELc7XNCg_AX7lZ_byjQ9c5UGS7-4V8GeBxrrLHNskYJw0c6Zoy4V6hEq3BejAnpkcjVSACysvdam87ufh7BkaCIt-3feFf15KKkD11lxEyaHf5AKFyIl1wgsS9LOkVN-iHL53e6FeslsfL3VTeFcLtfqJpxI4hafZ-Wqgvzb2zIxgECJpb5SqJDGbbpvghY1JjPiehJm5JvYJAR81AvBUqLe2Ccx1Tm1kHG3KwuiYnPLGLd8jP-nur1cQ5GM2hKiHfjV5UibhTKlXcS6wkwT7tjKjrcyvT6LrZTWDkyimikaS7PTi0Sun5ORryNaqEW5ffKsnA2qmXTQtCr_J6zssnJ75eJ8Xyk33-cnwozTwihC3-9RwMlWxL4YobO2e4kOemb7y9Iw-paFeQbsKVgOpgpL4lmQMTU17DHJw7J4xPv6bsp71nMMTS1j4JrTVyj06RLf0Rw70WWNzrEzro37GYLGv0WcSNjgiOiHnm3-Lzw3jgqKqZi9BAX0itO89she04pdQFJCeANv-jOl7KeJSXDFz4gP0HzI5Eac5nDKTG642fCmxb7wpYfYkCg6d_5YP81xjZSvLfWIhpKUj3EzHY1ha7z3Wp5W-fCEEz25txV8y2mXE-y32HlWeiAysoom9lTdsQV7Zylml7y218zrI1BBhpUT0MBplpkxAq6KN3MF-7OVCb4cD2lic7wu8bgIjILKS7aJ5m0F5O4AEKCfJFkjSO3qEtyW_RbOntdWsNufAOKpV8qwjSuvSZqc6JePDn90jCMOeZLrtfL05A1qEH8ufzwHk1SuUHzvycYyHyZrLciQ5j6CylXnHwm5Gx_afgwo7aiqR01k6ZTp8xNtWKER_zXyxkAt0NF4kv4NICy4_Ew2sX7OQWWxRVcL05D2DN10wPjh0Jt7GYndrxeW0qUecOfIef-qXwUv1p2K_gFnBQU5eDMcLsU3BCtU5_n_nSg4eD8ylBfyePD5WCl0prZtY7AqtcvuMhc&amp;cid=CAQSSwDUE5ymXHNer6V-MCGCOikCAfnQSMGwodzqVFHQ4LVAZVZOMz3zbRUXTGFigajdqJTIjQxE5DTTS43OKsLXj6IBRU14AujNZbAZ2xgB';window.dv3Utw = {u: u,w: function() {document.write('<script src=&quot;' + u + '&amp;flb=1&quot;></s' + 'cript>');}};})();</script><script src=&quot;https://pagead2.googlesyndication.com/pagead/js/dv3.js&quot; data-dv3-creative-fetch=&quot;https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-BUckVZOlhLOSakEOui5kGP6JRg5caznUuIaBlmNHc4YrVHDCuFjY_xfoqTw0dKwIpsFtKfTXYZcDJLtrlBJPW2s7RcmhvBBiCeR-Q_50HFXNd5NkskgBM_6p73PMkPpipJSrQMBFaC_Q0rspnZfxZ9UJHNP-2JW5YtAmO0sFmE0-M_ehs&amp;dbm_d=AKAmf-BGjcNODL421XrjJwrZDOq_oZunk441V0U3IRPpY6k0PMggT3F6Pq_M-bNrccssTnfewCuhmztA15ghyAWE9kWglgiMIWnN7qMffeTKZE2O_IAp6R1m5glGSu6o-G_VdAuwv7A3v4C3NtrZYYFlTKV7MVVtULJtb58fc_zJz69X8VzsVRlRJUekat0rvST34T9PynDeIn8sspSrSKAw-_4qyQhGs-dvZNoRLNx9rSZKx6HPO2c3abA11-4d0AI9T23Wehu4BwHXe2ZcZo1I5M8JLcszHj0mWt2SFYckNqWJTaLDAX3Hql8AqObno5Rse8liW1_ytcsfTXeBGL67jA1HsFPysUHD0aS-GOMOukUztFJea45c2aaNi6tCu9caTEit3e-Av-pTT_ZZ_iEJYL7SZv0y_B7pujW9XDqkiBIKlLxlZwHpoX4nuX6x94kLQ__39-fUUulAiHtRjRFNGa9GzUoJKDrSyxaBx7IEaHAMPUmsjBxshha6kGjDFFrkZzVPyuFzsksrr34xgutjV3Rl3-emJ4SgdBCNlq1pAGcirswYnUUe4YnKAJPsMbG0KBXj2zX5lptOiYWHvlW40JLvZGgAf-rfZeSCoXIYFw16XZi6sxpvzrHUrQ-vZpgpFzOB1IdZXxKbDmPE_04ZDkRREqLT9TGszye_uoYnu00gc5JMmnbLqY9N-TXp0Er-y74Dgy0E-IFsTia7p3OAtZpviP_UmpihnEIaJQzrjHhCf8nm-N6SlXDoYR005zecdJRDApjNPlaZQSgnXST-jJ1VsIskbU40pv_gyoTsgcTLF7KEzqX8abrbCSyDsY9e_4UjdTR08YKhhPtYzbvGf3N7eaqo5MtkicSjW_ca8434D_wd-5JWUG7atytJcAGqDLsrlPnivyJGZKIhOjh0wBJEIhZ7J7tzTPEzH9l2k-sobtzLWDg4Hh-fOw6tdLKinJPBMdfmy4IJYugfGf0u3kI_dAcUuYyzdSHhaBEDz79TzJPWIs9376ile7hK5KscajO1QKi_lrUKeeDkjbUoibBVJ4_ElPvhUxWBnZpHXx6ApmJ8wIjqjeKcgHVYSdDSeq3LeB7Q7_g3PwIxXDE5osmZLQdC9a86PnT3x1HFMXnfZ-cJoqDXj7YNlsRaXvA9PO0Gx0o9fE3E4QuXHsYgVzDBsQEP8PWDTiWOkzi5WQ-nCK67NrDsL7b1ONOjhLqXzHMDKvIu8z7ELAukw0gMQAEf0ogM982Ske0BhbSYZ17Y1mkfTDLm-53f44F3o6UO65zELdvD_-0CpREoq8b-rVMr4ZRXH0daDDtYzmBlb_LZvdSq1BJp79KQUMNJLVMzGb-IBuW0rmdbFiIq1-Zfsn6UokygGU1AwBZDIQs1D0jvdWkR0dSvpD_s2O2WVYkqWOkQxO5kG-xMjrzRNcK5c5cAs5bcxZh9ujF24ohZG8f85ZtjxuXEMPQqkrApx9rmzc3hRAhNNeZffANzX4A3AJgYc2kP0NyN0pcXAyjh9FMi80lgCRo-MAesKf6bX8uQJGS6bMGN7C33GhuY5MGppmAVGmB0ktzcLYh38yj_9D3nrUco0vvwX-0QaOif0gGp04Xhk4zq7MRvvHExR-Z6cmEsGQ2J1tb8LVqM-SZcb-7YNYx87T33udV0CyZ8Xq8T4b2MnhiTgzZ5KFbLQCSreEGwW1bp8FF-yEcuSr63V-GYT1bqeU9Cn5vOIES_fG_duAjyFceDQ7cyZOZbn6crBSeB_N6yDgwe8aMWlSwhyMLy1XKyqv2aw_VSkF-yVlR5zM5lNPkoLEVqmI4esXt3b02Mbnw3UuV388Meid6MtEsK3aVRFT8Vu9C9o3YsC5tWUww1LxGsKhbDfjWEW6gZHnAV87tHAMZqrPFEyk8XAccYWJ20eZMUEaswuR7u56yY43OdiXawSV_uAGsNjwS3Z_KpEZoCERBQpOobAesGBQ26zEgT3V3GTVDEz5fV7xpVeW_3SjmzUyy9GaRN0rqMV_nP9He5jbIwEvbQ4hIib-FBjsFh8U2SANFngqLPGKaQoGubmnaRkZie3BQmuaNKs2KNKIHaHJDvzp-cNZxQRmbb4seqY7I84OX6NqAKRG0qeMq-M_V5MT5ylSukO0dM2ZXIKpjA9DCoZUssRWVYQ2zjiX2yRDlJyTikpGBzJ6GFwlfJu9HUqVQh_-NfBTWgiN9KvwVgVWp9wa7QDFghv1mDK2y5WzyQP0_60aC-I4PUapAgULnfvNonJxMUB3TRC2WZ_9j_h8apoj6pK7lCFFOzh4MvNtga-z4UTue3CPiI1GWcZ1PYsMuzsvzBF1bSo7c8pWQX5TwZ0z0AYuihVgnGhHksgWYyShyPALf4BReQ6XLAud6GtGpLDtbAELc7XNCg_AX7lZ_byjQ9c5UGS7-4V8GeBxrrLHNskYJw0c6Zoy4V6hEq3BejAnpkcjVSACysvdam87ufh7BkaCIt-3feFf15KKkD11lxEyaHf5AKFyIl1wgsS9LOkVN-iHL53e6FeslsfL3VTeFcLtfqJpxI4hafZ-Wqgvzb2zIxgECJpb5SqJDGbbpvghY1JjPiehJm5JvYJAR81AvBUqLe2Ccx1Tm1kHG3KwuiYnPLGLd8jP-nur1cQ5GM2hKiHfjV5UibhTKlXcS6wkwT7tjKjrcyvT6LrZTWDkyimikaS7PTi0Sun5ORryNaqEW5ffKsnA2qmXTQtCr_J6zssnJ75eJ8Xyk33-cnwozTwihC3-9RwMlWxL4YobO2e4kOemb7y9Iw-paFeQbsKVgOpgpL4lmQMTU17DHJw7J4xPv6bsp71nMMTS1j4JrTVyj06RLf0Rw70WWNzrEzro37GYLGv0WcSNjgiOiHnm3-Lzw3jgqKqZi9BAX0itO89she04pdQFJCeANv-jOl7KeJSXDFz4gP0HzI5Eac5nDKTG642fCmxb7wpYfYkCg6d_5YP81xjZSvLfWIhpKUj3EzHY1ha7z3Wp5W-fCEEz25txV8y2mXE-y32HlWeiAysoom9lTdsQV7Zylml7y218zrI1BBhpUT0MBplpkxAq6KN3MF-7OVCb4cD2lic7wu8bgIjILKS7aJ5m0F5O4AEKCfJFkjSO3qEtyW_RbOntdWsNufAOKpV8qwjSuvSZqc6JePDn90jCMOeZLrtfL05A1qEH8ufzwHk1SuUHzvycYyHyZrLciQ5j6CylXnHwm5Gx_afgwo7aiqR01k6ZTp8xNtWKER_zXyxkAt0NF4kv4NICy4_Ew2sX7OQWWxRVcL05D2DN10wPjh0Jt7GYndrxeW0qUecOfIef-qXwUv1p2K_gFnBQU5eDMcLsU3BCtU5_n_nSg4eD8ylBfyePD5WCl0prZtY7AqtcvuMhc&amp;cid=CAQSSwDUE5ymXHNer6V-MCGCOikCAfnQSMGwodzqVFHQ4LVAZVZOMz3zbRUXTGFigajdqJTIjQxE5DTTS43OKsLXj6IBRU14AujNZbAZ2xgB&quot; data-dv3-width=&quot;728&quot; data-dv3-height=&quot;90&quot; data-dv3-render-mode=&quot;script&quot; data-dv3-meta-data=&quot;[1,76,7699425254903748997]&quot;></script><script data-jc=&quot;112&quot; data-jc-version=&quot;r20230329&quot;>(function(){'use strict';const d=/[&amp;?]dbm_c=([^ &amp;]+)/;function e(a){return(a=d.exec(a))?a[1]:null}function f(a,b,c){a=a.getElementsByTagName(b);for(b=0;b<a.length;++b)if(e(a[b].src)===c)return!0;return!1};const g=window;if(g.dv3Utw){var h=g.dv3Utw.u,k=g.dv3Utw.w;g.dv3Utw=void 0;var l;a:{const a=e(h);if(!a||f(document,&quot;script&quot;,a)||f(document,&quot;iframe&quot;,a))l=!0;else{var m=document.getElementsByClassName(&quot;dv3-asfrm&quot;);for(let b=0;b<m.length;++b){const c=m[b];if(c.contentWindow&amp;&amp;f(c.contentWindow.document,&quot;script&quot;,a)){l=!0;break a}}l=!1}}l||k()};}).call(this);</script></div></div></div><script data-jc=&quot;22&quot; src=&quot;https://tpc.googlesyndication.com/pagead/js/r20230329/r20110914/client/window_focus_fy2021.js&quot; async data-jc-version=&quot;r20230329&quot; data-jcp-url=&quot;https://googleads.g.doubleclick.net/pagead/interaction/?ai=Cu15SoEMmZJ76Eo6-qAGHyKewCOnf8Y9unNf3r4QRgp3coNQBEAEg-JDBCWCdAaABjryg9QLIAQmpAvymNQYXiYM-qAMByAObBKoE8AFP0EgvIT1B3fP2Bt3Aa-cMWZI_0f3LOpAdhhqkrmUTgkXSfO9x-axFCOCYwHicIPPbLEaMWUXY2MgqZcqcyh-C7l_N1d0v4ApecBrvzjo62QgUacBInd7UdbSP3nv9q0OK3YhBzRpaZGxTn-24p7zg_srr1fEsVT-rnkkrBYRUgsbVxK7p3DrRv-fz2OU5qZj8yC7zpWJD03b3qMdtdKRWfc9NE5hsdGoADD3ZNrQacptQ2a48RbKjqzqgGidH5MHbofNNyCRFDu1-mh0K3ACKh4F8kdd_Qgcgvs_M3WRYl6-_UurSVruFeZbeofm3LZfABM6X_5iRBOAEA5AGAaAGTIAH2sPfigGoB47OG6gHk9gbqAfulrECqAf-nrECqAeko7ECqAfVyRuoB6a-G6gHmgaoB_PRG6gHltgbqAeqm7ECqAeDrbECqAf_nrECqAffn7EC2AcA0ggPCIBhEAEYHTICigI6AoBAgAoBmAsByAsBgAwBsBOZ4eES0BMA2BMN2BQB0BUB-BYBgBcB&amp;amp;sigh=npysR9Dq6N8&amp;amp;cid=CAQSSwDUE5ymXHNer6V-MCGCOikCAfnQSMGwodzqVFHQ4LVAZVZOMz3zbRUXTGFigajdqJTIjQxE5DTTS43OKsLXj6IBRU14AujNZbAZ2w&quot; data-jcp-gws-id=&quot;&quot; data-jcp-qem-id=&quot;CJ7Kk-uNhf4CFQ4fKgodB-QJhg&quot;></script><script data-jc=&quot;23&quot; src=&quot;https://tpc.googlesyndication.com/pagead/js/r20230329/r20110914/client/qs_click_protection_fy2021.js&quot; data-jc-version=&quot;r20230329&quot; data-jcp-init-data=&quot;[[[[null,500,99,2,9,null,null,null,1]]]]&quot;></script><div style=&quot;bottom:0;right:0;width:728px;height:90px;background:initial !important;position:absolute !important;max-width:100% !important;max-height:100% !important;pointer-events:none !important;image-rendering:-moz-crisp-edges !important;z-index:2147483647;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAAB9SURBVBjTbZEBDoUwCEPLDbj/af2jtEDycRo7u/KCwP8KFt+XytpJX1Tl+D25rJ4jy8fVar6H0nGyn22yu3co2Vyqsm9utEWHyuNw+osEIQpyOLEZVotOb1jFH5A8k9nc5GqS5bXEBEeICHuCgq/bblMEcCaoBrn+5eC8Ex9PnwVnkwvHxAAAAABJRU5ErkJggg==') !important;&quot;></div><script id=&quot;googleActiveViewDisplayScript&quot; src=&quot;https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914&quot;></script><script type=&quot;text/javascript&quot;>osdlfm();</script></body></html>{&quot;uid&quot;:&quot;4&quot;,&quot;hostPeerName&quot;:&quot;https://sailboatdata.com&quot;,&quot;initialGeometry&quot;:&quot;{\&quot;windowCoords_t\&quot;:-7,\&quot;windowCoords_r\&quot;:1543,\&quot;windowCoords_b\&quot;:823,\&quot;windowCoords_l\&quot;:-7,\&quot;frameCoords_t\&quot;:2371.9666748046875,\&quot;frameCoords_r\&quot;:1132,\&quot;frameCoords_b\&quot;:2461.9666748046875,\&quot;frameCoords_l\&quot;:404,\&quot;styleZIndex\&quot;:\&quot;auto\&quot;,\&quot;allowedExpansion_t\&quot;:662.9666748046875,\&quot;allowedExpansion_r\&quot;:404,\&quot;allowedExpansion_b\&quot;:0,\&quot;allowedExpansion_l\&quot;:404,\&quot;xInView\&quot;:1,\&quot;yInView\&quot;:0.44481472439236114}&quot;,&quot;permissions&quot;:&quot;{\&quot;expandByOverlay\&quot;:false,\&quot;expandByPush\&quot;:false,\&quot;readCookie\&quot;:false,\&quot;writeCookie\&quot;:false}&quot;,&quot;metadata&quot;:&quot;{\&quot;shared\&quot;:{\&quot;sf_ver\&quot;:\&quot;1-0-40\&quot;,\&quot;ck_on\&quot;:1,\&quot;flash_ver\&quot;:\&quot;0\&quot;}}&quot;,&quot;reportCreativeGeometry&quot;:false,&quot;isDifferentSourceWindow&quot;:false,&quot;goog_safeframe_hlt&quot;:{}}" scrolling="no" marginwidth="0" marginheight="0" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" role="region" aria-label="Advertisement" tabindex="0" data-google-container-id="4" width="728" height="90" frameborder="0"></iframe></div></div>
+    </div>
+</div>                    </footer>
+
+        <div class="js-cookie-consent cookie-consent">
+
+    <span class="cookie-consent__message">
+        This site requires anonymous cookies and various third-party services to function properly. Please consent to allowing cookies and accept our <a target="_blank" href="https://sailboatdata.com/legal">Terms and Conditions</a>.
+    </span>
+
+    <button class="js-cookie-consent-agree cookie-consent__agree">
+        Accept
+    </button>
+
+</div>
+
+    <script>
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+            const COOKIE_DOMAIN = 'sailboatdata.com';
+
+            function consentWithCookies() {
+                setCookie('laravel_cookie_consent', COOKIE_VALUE, 7300);
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(name + '=' + COOKIE_VALUE) !== -1);
+            }
+
+            function hideCookieDialog() {
+                const dialogs = document.getElementsByClassName('js-cookie-consent');
+
+                for (let i = 0; i < dialogs.length; ++i) {
+                    dialogs[i].style.display = 'none';
+                }
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value
+                    + ';expires=' + date.toUTCString()
+                    + ';domain=' + COOKIE_DOMAIN
+                    + ';path=/'
+                    + '';
+            }
+
+            if (cookieExists('laravel_cookie_consent')) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {
+                consentWithCookies: consentWithCookies,
+                hideCookieDialog: hideCookieDialog
+            };
+        })();
+    </script>
+
+
+        <script src="https://sailboatdata.com/js/app.js"></script>
+                <!-- Start Quantcast tag -->
+        <script type="text/javascript">
+            _qoptions={
+                qacct:"p-7ewNoXfWBfN3Q"
+            };
+        </script>
+        <script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+        <noscript>
+            <a href="https://www.quantcast.com/p-7ewNoXfWBfN3Q" target="_blank"><img src="https://pixel.quantserve.com/pixel/p-7ewNoXfWBfN3Q.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+        </noscript>
+        <!-- End Quantcast tag -->  .
+        <script type="text/javascript">
+            function hide(){
+                let overlay = document.getElementsByClassName("overlay");
+                overlay[0].style.display = "none";
+	    }
+            const urlParams = new URLSearchParams(window.location.search);
+            const accessForum = urlParams.get('forum');
+
+            if (accessForum === "true") {
+                window.location = "https://forum.sailboatdata.com";
+            }
+        </script><iframe src="https://8047e4fe750ed9dd7a2036b29ac94a33.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" style="visibility: hidden; display: none;"></iframe>
+    
+
+</body>

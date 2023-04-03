@@ -1,0 +1,3 @@
+宽度（米）	排水量（千克）	面积排水比（SA/Disp）	燃油容量（升）	水容量（升）	帆具类型	MastHeightfromDWL（离水线至桅杆顶部的高度）
+
+Width, Displacement, SA/Disp, Fuel capacity, Water capacity, Rigging Type, Mast Height from DWL

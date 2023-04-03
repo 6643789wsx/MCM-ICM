@@ -1,0 +1,6 @@
+定量：
+['Beam','S.A.(reported)','Draft(max)','Displacement','S.A./Disp.','KSP','Fuel','Mast Height from DWL','Water']
+
+定性：
+['Rigging Type','Make','Type']
+
